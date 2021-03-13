@@ -9,4 +9,8 @@
 | Basic Select | Easy | Select By ID |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Select%20By%20ID.sql) |
 | Basic Select | Easy | Japanese Cities' Attributes |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Japanese%20Cities'%20Attributes.sql) |
 | Basic Select | Easy | Japanese Cities' Names |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Japanese%20Cities'%20Names.sql) |
-| Basic Select | Easy | Weather Observation Station 1 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%201.sql) |
+| Basic Select | Easy | Weather Observation Station 1 |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%201.sql) |
+| Basic Select | Easy | Weather Observation Station 1 |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%201.sql) |
+| Basic Select | Easy | Weather Observation Station 3 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%203.sql) |
+| Basic Select | Easy | Weather Observation Station 4 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%204.sql) |
+| Basic Select | Easy | Weather Observation Station 5 |30 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%205.sql) |
