@@ -14,3 +14,13 @@
 | Basic Select | Easy | Weather Observation Station 3 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%203.sql) |
 | Basic Select | Easy | Weather Observation Station 4 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%204.sql) |
 | Basic Select | Easy | Weather Observation Station 5 |30 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%205.sql) |
+| Basic Select | Easy | Weather Observation Station 6 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%206.sql) |
+| Basic Select | Easy | Weather Observation Station 7 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%207.sql) |
+| Basic Select | Easy | Weather Observation Station 8 |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%208.sql) |
+| Basic Select | Easy | Weather Observation Station 9 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%209.sql) |
+| Basic Select | Easy | Weather Observation Station 10 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%2010.sql) |
+| Basic Select | Easy | Weather Observation Station 11 |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%2011.sql) |
+| Basic Select | Easy | Weather Observation Station 12 |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%2012.sql) |
+| Basic Select | Easy | Higher Than 75 Marks |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Higher%20Than%2075%20Marks.sql) |
+| Basic Select | Easy | Employee Names |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Employee%20Names.sql) |
+| Basic Select | Easy | Employee Salary |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Employee%20Salaries.sql) |
