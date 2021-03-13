@@ -28,12 +28,15 @@
 | Aggregation | Easy | Revising Aggregations - The Sum Function |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql) |
 | Aggregation | Easy | Revising Aggregations - Averages |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Revising%20Aggregations%20-%20Averages.sql) |
 | Aggregation | Easy | Average Population |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Average%20Population.sql) |
-
-
-
-
-
-
-
-
-
+| Aggregation | Easy | Japan Population |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Japan%20Population.sql) |
+| Aggregation | Easy | Population Density Difference |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Population%20Density%20Difference.sql) |
+| Aggregation | Easy | The Blunder |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/The%20Blunder.sql) |
+| Aggregation | Easy | Top Earners |20 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Top%20Earners.sql) |
+| Aggregation | Easy | Weather Observation Station 2 |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%202.sql) |
+| Aggregation | Easy | Weather Observation Station 13 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%2013.sql) |
+| Aggregation | Easy | Weather Observation Station 14 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%2014.sql) |
+| Aggregation | Easy | Weather Observation Station 15 |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%2015.sql) |
+| Aggregation | Easy | Weather Observation Station 16 |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%2016.sql) |
+| Aggregation | Easy | Weather Observation Station 17 |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%2017.sql) |
+| Aggregation | Medium | Weather Observation Station 18 |25 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%2018.sql) |
+| Aggregation | Medium | Weather Observation Station 19 |30 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%2019.sql) |
