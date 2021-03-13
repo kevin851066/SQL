@@ -23,4 +23,17 @@
 | Basic Select | Easy | Weather Observation Station 12 |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%2012.sql) |
 | Basic Select | Easy | Higher Than 75 Marks |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Higher%20Than%2075%20Marks.sql) |
 | Basic Select | Easy | Employee Names |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Employee%20Names.sql) |
-| Basic Select | Easy | Employee Salary |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Employee%20Salaries.sql) |
+| Basic Select | Easy | Employee Salaries |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Select/Employee%20Salaries.sql) |
+| Aggregation | Easy | Revising Aggregations - The Count Function |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql) |
+| Aggregation | Easy | Revising Aggregations - The Sum Function |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql) |
+| Aggregation | Easy | Revising Aggregations - Averages |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Revising%20Aggregations%20-%20Averages.sql) |
+| Aggregation | Easy | Average Population |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Average%20Population.sql) |
+
+
+
+
+
+
+
+
+
