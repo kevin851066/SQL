@@ -40,3 +40,6 @@
 | Aggregation | Easy | Weather Observation Station 17 |15 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%2017.sql) |
 | Aggregation | Medium | Weather Observation Station 18 |25 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%2018.sql) |
 | Aggregation | Medium | Weather Observation Station 19 |30 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Aggregation/Weather%20Observation%20Station%2019.sql) |
+| Basic Join | Easy | Asian Population |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Join/Asian%20Population.sql) |
+| Basic Join | Easy | African Cities |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Join/African%20Cities.sql) |
+| Basic Join | Easy | Average Population of Each Continent |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql) |
