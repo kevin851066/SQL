@@ -43,3 +43,6 @@
 | Basic Join | Easy | Asian Population |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Join/Asian%20Population.sql) |
 | Basic Join | Easy | African Cities |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Join/African%20Cities.sql) |
 | Basic Join | Easy | Average Population of Each Continent |10 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql) |
+| Basic Join | Medium | Top Competitors |30 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Join/Top%20Competitors.sql) |
+| Basic Join | Medium | Ollivander's Inventory |30 |[[Solution]](https://github.com/kevin851066/SQL/blob/main/Basic%20Join/Ollivander's%20Inventory.sql) |
+
